@@ -7,7 +7,7 @@ I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be 
 
 <br/> 
 
-💬 &nbsp; Here you can find all my info
+💬 &nbsp; Here you can find more about me
 
 ```
 <?PHP
