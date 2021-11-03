@@ -9,7 +9,7 @@ I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be 
 
 💬 &nbsp; Here you can find more about me
 
-```
+# -*- coding: utf-8 -*-
 <?PHP
 
   $aboutMe = "Currently at BeCode.org in the road to become a Web Developer.            
