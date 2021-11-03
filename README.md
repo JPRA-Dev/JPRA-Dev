@@ -27,8 +27,8 @@ I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be 
   
   
   
-  $languages = ["Portuguese" => "Native language", :pt:
-                "English" => "B2", :gb:
+  $languages = ["Portuguese" => "Native language",
+                "English" => "B2",
                 "French" => "A2"];
                 
                 
