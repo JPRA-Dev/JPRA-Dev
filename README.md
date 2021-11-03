@@ -17,7 +17,8 @@ I am a Junior Wev Developer looking 🔭 for an internship to be able to follow 
                  "MongoDB", "SASS",];
                  
                  
-  $softSkills = ["Technical spirit", "Creative", "Fast learner", "Patient", "Team spirit", "Flexible", "Self-taught",];
+  $softSkills = ["Technical spirit", "Creative", "Fast learner", "Patient", "Team spirit", 
+                 "Flexible", "Self-taught",];
   
   
   
