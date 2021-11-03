@@ -29,13 +29,13 @@ I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be 
   
   $languages = ["Portuguese" => "Native language",
                 "English" => "B2",
-                "French" => "A2"];
+                "French" => "A2",];
                 
                 
                
   $contacts = ["Email" => "jpandrade.dev@gmail.com",
                "Linkedin" => "jpandradedev",
-               "Github" => "JPRA-Dev"];
+               "Github" => "JPRA-Dev",];
 
 ?>
 ```
