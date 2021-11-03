@@ -1,8 +1,8 @@
 ### Hello everyone! 👋
 
-I am a Junior Wev Developer looking 🔭 for an internship to be able to follow my road to a great Web Developper 💻
+I am a Junior Wev Developer looking  🔭 for an internship to be able to follow my road to a great Web Developper  💻
 
-💬  Here you have all my info
+💬   Here you have all my info
 
 ```
 <?PHP
@@ -35,6 +35,6 @@ I am a Junior Wev Developer looking 🔭 for an internship to be able to follow 
 ?>
 ```
 
-- 🔭 Looking forward to work on cool and challenging development projects 😉 
+- 🔭  Looking forward to work on cool and challenging development projects  😉 
 
 -->
