@@ -1,13 +1,13 @@
 ### Hello everyone! 👋
 
-I am a Junior Wev Developer looking  🔭 for an internship to be able to follow my road to a great Web Developper  💻
+I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be able to follow my road to a great Web Developper &nbsp; 💻
 
-💬   Here you have all my info
+💬 &nbsp; Here you have all my info
 
 ```
 <?PHP
 
-  $aboutMe = "Currently at BeCode.org in the road to become a Web Developer. 💻              
+  $aboutMe = "Currently at BeCode.org in the road to become a Web Developer.            
               I am looking for an internship.
               I have a technical mind, I am very creative and a quick learner.";
               
@@ -35,6 +35,5 @@ I am a Junior Wev Developer looking  🔭 for an internship to be able to follow
 ?>
 ```
 
-- 🔭  Looking forward to work on cool and challenging development projects  😉 
-
--->
+- 🔭  &nbsp; Looking forward to work on cool and challenging development projects &nbsp; 😉 
+- 
