@@ -1,8 +1,17 @@
 ### Hello everyone! 👋
 
+<br/> 
+
+![alt text](http://url/to/img.png)
+
+
+<br/> 
+
 I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be able to follow my road to a great Web Developper &nbsp; 💻
 
-💬 &nbsp; Here you have all my info
+<br/> 
+
+💬 &nbsp; Here you can find all my info
 
 ```
 <?PHP
@@ -34,6 +43,5 @@ I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be 
 
 ?>
 ```
-
-- 🔭  &nbsp; Looking forward to work on cool and challenging development projects &nbsp; 😉 
-- 
+<br/> 
+-> &nbsp 🔭  &nbsp; Looking forward to work on cool and challenging development projects &nbsp; 😉 
