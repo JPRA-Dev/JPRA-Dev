@@ -25,7 +25,7 @@
                
   $contacts = ["Email" => "jpandrade.dev@gmail.com", 📫 
                "Linkedin" => "jpandradedev",
-               "Github" => "JPRA-Dev"]; :telephone_receiver:
+               "Github" => "JPRA-Dev"]; :iphone:
 
 ?>
 ```
