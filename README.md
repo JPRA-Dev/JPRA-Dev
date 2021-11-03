@@ -1,9 +1,27 @@
 ### Hi there 👋
 
-<!--
-**JPRA-Dev/JPRA-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<?PHP
 
-Here are some ideas to get you started:
+  $aboutMe = "Currently at BeCode.org in the road to become a Web Developer.
+              I am looking for an internship.
+              I have a technical mind, I am very creative and a quick learner.";
+
+
+  $hardSkills = ["PHP", "PDO", "OOP", "NodeJS", "Laravel", "MVC", "MySQL", "Apache”,
+                 "Wordpress", "JavaScript", "CSS", "AJAX", "Git", "Java”, “Adobe Photoshop",
+                 "MongoDB", "Ajax",];
+
+
+
+
+
+
+
+
+
+
+
+?>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
