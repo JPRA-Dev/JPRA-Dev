@@ -1,9 +1,5 @@
 ### Hello everyone! 👋
 
-<br/> 
-
-![alt text](http://url/to/img.png)
-
 
 <br/> 
 
