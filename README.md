@@ -3,7 +3,7 @@
 
 <br/> 
 
-I am a Junior Wev Developer looking &nbsp; 🔭  &nbsp; for an internship to be able to follow my road to a great Web Developper &nbsp; 💻
+I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for an internship to be able to follow my road to a great Web Developper &nbsp; 💻
 
 <br/> 
 
