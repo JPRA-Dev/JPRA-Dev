@@ -12,7 +12,7 @@ I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for an internship to be able t
 ```
 <?PHP
 
-  $aboutMe = "Currently at BeCode.org in the road to become a Web Developer.            
+  $aboutMe = "Currently at BeCode.org on the road to become a Web Developer.            
               I am looking for an internship.
               I have a technical mind, I am very creative and a quick learner.";
               
