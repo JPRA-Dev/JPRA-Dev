@@ -15,7 +15,7 @@ I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for an internship to be able t
 
   $aboutMe = "Currently at BeCode.org on the road to become a Web Developer.            
               I am looking for an internship.
-              I have a technical mind, I am very creative and a quick learner.";
+              I have a technical mind, I am very creative and a fast learner.";
               
 
   $hardSkills = ["PHP", "PDO", "OOP", "NodeJS", "Laravel", "MVC", "MySQL", "Apache”,
