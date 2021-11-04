@@ -9,7 +9,8 @@ I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for an internship to be able t
 
 💬 &nbsp; Here you can find more about me
 
-```
+```php
+
 <?PHP
 
   $aboutMe = "Currently at BeCode.org on the road to become a Web Developer.            
