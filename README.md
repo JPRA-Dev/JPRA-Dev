@@ -18,7 +18,7 @@ I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for an internship to be able t
               I have a technical mind, I am very creative and a fast learner.";  
               
 
-  $hardSkills = ["PHP", "PDO", "OOP", "NodeJS", "Laravel", "MVC", "MySQL", "Apache”,
+  $hardSkills = ["PHP", "PDO", "OOP", "NodeJS", "Laravel", "Angular", "MVC", "MySQL", "Apache”,
                  "Wordpress", "JavaScript", "Angular", "CSS", "Ajax", "Git", "Java”, “Adobe_Photoshop",
                  "MongoDB", "SASS",];
                  
