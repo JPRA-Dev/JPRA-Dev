@@ -20,7 +20,7 @@ I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for an internship to be able t
 
   $hardSkills = ["PHP", "PDO", "OOP", "NodeJS", "Laravel", "Angular", "MVC", "MySQL", "Apache”,
                  "Wordpress", "JavaScript", "Angular", "CSS", "Ajax", "Git", "Java”, “Adobe_Photoshop",
-                 "MongoDB", "SASS",];
+                 "MongoDB", "SASS", "Angular"];
                  
                  
   $softSkills = ["Technical_spirit", "Creative", "Fast_learner", "Patient", "Team_spirit", 
