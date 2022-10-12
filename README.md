@@ -20,21 +20,21 @@ I am a Junior Wev Dev looking &nbsp; 🔭  &nbsp; for my next challenge to be ab
 
   $hardSkills = ["PHP", "PDO", "OOP", "NodeJS", "Laravel", "Angular", "MVC", "MySQL", "Apache”,
                  "Wordpress", "JavaScript", "Angular", "CSS", "Ajax", "Git", "Java”, “Adobe_Photoshop",
-                 "MongoDB", "SASS", "Angular"];
+                 "MongoDB", "SASS"];
                  
                  
   $softSkills = ["Technical_spirit", "Creative", "Fast_learner", "Patient", "Team_spirit", 
-                 "Flexible", "Self-taught",];
+                 "Flexible", "Self-taught"];
   
   
   $languages = ["Portuguese" => "Native_language",
                 "English" => "B2",
-                "French" => "A2",];
+                "French" => "A2"];
                 
                             
   $contacts = ["Email" => "jpandrade.dev@gmail.com",
                "Linkedin" => "jpandradedev",
-               "Github" => "JPRA-Dev",];
+               "Github" => "JPRA-Dev"];
 
 ?>
 
